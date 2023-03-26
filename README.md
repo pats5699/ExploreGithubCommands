@@ -1,6 +1,4 @@
-**Git Explorer** is a simple android application to search git command on one click.
-
-***You can Install and test latest app from below ***
+This is a simple android application to search git command on one click.
 
 ## About
 The app in itself is a simple git commands searching app. Selecting command from the dropdown list gives you the usage and short description of that command.
